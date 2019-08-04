@@ -2,6 +2,7 @@ Ways to Improve Your Idea
 =========================
 How to turn sparks of insight into full-fledged concepts
 --------------------------------------------------------
+![bok](/bok.jpeg)
 It’s hard to look at your idea or concept objectively.
 And no wonder. I mean, you came up with it after all! It’s your baby. You had that lightbulb moment, and you’re not giving it up without a fight!
 The problem is, your idea might suck.
@@ -15,20 +16,30 @@ Buy yourself a notebook of some kind. I won’t pretend that the size, number of
 Use whatever your preference is and find yourself a pen or pencil.
 Open the notebook, and write down the number one. Sketch out the concept or idea you currently have. This is your starting point.
 
-A view from one of my sketchbooks
----------------------------------
-Now, the fun begins.
+![bok](/sketchbook.jpeg)
+######A view from one of my sketchbooks
+
+####Now, the fun begins.
 Turn the page and flesh out idea one until it becomes idea two. Flesh out idea two until it becomes three.
+
 Highlight one area of the third idea. ‘Zoom in’ to the finer details. Expand these a couple of times to form ideas four, five, and six. Expand those finer details to become ideas seven to ten. You get the picture.
+
 The point of this method is to push the boundaries of your original idea. No idea is too ‘wacky’ or ‘weird.’ No idea is wrong.
+
 This is a safe space to go wild.
+
 By idea 30, it probably seems pointless. You were happy with concept 17 and have not managed to muster up anything better since.
+
 And that is another point of this exercise. Exhausting all possibilities. If there really is nothing better after 17, then bingo, 17 is your idea.
+
 But who is to say that idea 83, or 91, won’t completely change your concept?
+
 No matter how many days/weeks it may take, get to the magic 100. Come back to it and reflect on it, and choose five to ten final concepts.
 Turn this five to ten into two to three.
+
 With these two to three, you can either repeat the development process (not necessarily 100 though). Or, you can take the best features of each and put them together.
 Somewhere in here lies your new, upgraded idea or concept.
+
 
 The Six Thinking Hats Method
 ----------------------------
