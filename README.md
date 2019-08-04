@@ -1,5 +1,5 @@
-2 Simple Yet Awesome Ways to Improve Your Idea
-==============================================
+Ways to Improve Your Idea
+=========================
 How to turn sparks of insight into full-fledged concepts
 --------------------------------------------------------
 It’s hard to look at your idea or concept objectively.
@@ -8,7 +8,9 @@ The problem is, your idea might suck.
 Or at least, it needs some serious refinement.
 You just can’t see it through your pride, and that’s OK.
 Here are two methods you can apply to turn your original idea into an ass-kicking concept ready to take over the world.
-1. The 100 Ideas Method
+
+The 100 Ideas Method
+--------------------
 Buy yourself a notebook of some kind. I won’t pretend that the size, number of lines, or thickness of paper matter one bit.
 Use whatever your preference is and find yourself a pen or pencil.
 Open the notebook, and write down the number one. Sketch out the concept or idea you currently have. This is your starting point.
